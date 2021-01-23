@@ -1,6 +1,6 @@
 # COMP5111 (Spring 2021) Assignment 1
 
-## Deadline: March 7, 2021
+## Deadline: March 7, 2021 - 23:55
 
 ## Assignment Objective
 
