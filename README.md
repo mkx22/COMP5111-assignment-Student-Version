@@ -10,5 +10,5 @@ DO NOT fork this repo, since you'd better keep your code private and invisible t
 However, you can set this repository as an upstream of your own private git repository. 
 
 ## Assignment
-* Assignment 1: branch [`assignment1`](./tree/assignment1)
+* Assignment 1: branch [`assignment1`](../../tree/assignment1)
 * Assignment 2: branch `TBA`
