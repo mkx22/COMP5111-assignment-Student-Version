@@ -138,7 +138,7 @@ You can earn the bonus if you are able to finish the bonus task.
 
 #### Notes:
 The implementation of this bonus task is similar to that of task 2 except that you need to obtain the line number of Jimple code. 
-Please refer to [FAQ Q9](Assignment1_FAQ.md) on how to obtain the line number.
+Please refer to [FAQ Q9](./Assignment1_FAQ.md#9-how-to-preserve-the-line-number-in-soot) on how to obtain the line number.
 
 #### Grading Scheme:
 - `10%` if your program can successfully instrument the code and report the line coverage. 
