@@ -162,7 +162,7 @@ For each coverage criterion (Task2, Task3, and Bonus Task), your program needs t
 
 ## Assignment 1 Overall Submission
 
-- Your are required to submit your assignment to CSE [CASS](http://cssystem.cs.ust.hk/UGuides/cass/student.html).
+- Your are required to submit your assignment to CSE [CASS](http://cssystem.cs.ust.hk/UGuides/cass/student.html). \scc{Are we using Canvas for submission and SpeedGrader to leave comments on assignment?}
 - Please put all your code, screenshot, readme and etc. into a single folder and compress it to `comp5111asg01.zip`
 
 The recommended folder structure is:
