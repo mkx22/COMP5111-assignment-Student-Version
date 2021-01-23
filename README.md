@@ -59,7 +59,7 @@ You are expected to finish 2 sub tasks.
 ### Task 1.1: To learn how to use Randoop for unit test generation.
 
 Randoop is a tool to generate JUnit test suites automatically.
-A short tutorial about Randoop is avaiable [here](randoop.html), including how to use Randoop to generate unit tests, and execute them using Eclipse.
+A short tutorial about Randoop is avaiable [here](randoop.md), including how to use Randoop to generate unit tests, and execute them using Eclipse.
 
 #### Requirements: 
 1. You need to use Randoop to generate **5 different test suites** for the given program.
@@ -80,7 +80,8 @@ Each test suit accounts for `3%` if it can be successfully executed.
 
 ### Task 1.2: To learn how to use EclEmma for code coverage measurement.
 
-EclEmma is an Eclipse plugin to measure the code coverage. A tutorial is available [here](eclemma.html).
+EclEmma is an Eclipse plugin to measure the code coverage. 
+A tutorial is available [here](eclemma.md).
 
 #### Requirements:
 1. Please use EclEmma to measure the coverage of the 5 submitted test suites that you generated.
@@ -96,7 +97,7 @@ Each screenshot accounts for `1.5%` if the values in the screenshot are correct.
 ### Task 2: Statement coverage measurement using Soot (40%)
 
 Soot is a framework for analyzing and transforming Java programs.
-We have prepared a tutorial about Soot, [here](soot.html). Answers to some common questions are available, [here](faq.html).
+We have prepared a tutorial about Soot, [here](soot.md). Answers to some common questions are available, [here](Assignment1_FAQ.md).
 
 #### Requirements:
 1. Use Soot to instrument the given CUT to measure statement coverage of tests.
