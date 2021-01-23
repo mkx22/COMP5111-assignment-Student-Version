@@ -13,7 +13,9 @@ We have prepared tutorials to help you accomplish this assignment.
 
 ### Have Questions?
 1. If you have questions, please first check our [FAQ](Assignment1_FAQ.md). 
-2. If your problem is not solved, you are recommended to create posts in `Discussions` in this repository.
+2. If your problem is not solved, you are recommended to create `Issues` in this repository.
+   Issues shall be replied by the TA within 24 hrs.
+3. If you want to discuss with other classmates, you can go to `Discussions` of this repository. 
    Note that this repository is `ONLY` for programming assignment. 
    Your reading reports and related discussions should be put on CANVAS.
 3. If you don't want your question to be visible to other classmates, you can send an email to the TA. 
