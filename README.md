@@ -160,7 +160,7 @@ For each coverage criterion (Task2, Task3, and Bonus Task), your program needs t
 5. You need to measure all the five submitted test suites.
 6. Advice: You are highly encouraged to maintain your code at Github. It provides a backup of your code in case your computer crashes and allows us to retrieve code from your Github repository in case of submission errors. Such incidents did happen in the past.
 
-## Assignment 1 Overall Submission
+## Assignment 1 Submission
 
 - Your are required to submit your assignment to CSE [CASS](http://cssystem.cs.ust.hk/UGuides/cass/student.html). \scc{Are we using Canvas for submission and SpeedGrader to leave comments on assignment?}
 - Please put all your code, screenshot, readme and etc. into a single folder and compress it to `comp5111asg01.zip`
