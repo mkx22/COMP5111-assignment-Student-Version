@@ -158,7 +158,7 @@ For each coverage criterion (Task2, Task3, and Bonus Task), your program needs t
    **all coverage criteria** you implemented. 
    Minor differences are allowed.
 5. You need to measure all the five submitted test suites.
-6. Advice: You are highly encouraged to maintain your code at Github. It provides a backup of your code in case your computer crashes and allows us to retrieve code from your Github repository in case of submission errors. Such incidents did happen in the past.
+6. Advice: You are highly encouraged to maintain your code in a `private` repository at Github. It provides a backup of your code in case your computer crashes and allows us to retrieve code from your Github repository in case of submission errors. Such incidents did happen in the past.
 
 ## Assignment 1 Submission
 
